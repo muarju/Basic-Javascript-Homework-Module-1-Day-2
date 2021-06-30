@@ -59,8 +59,8 @@ Verify then, that name1 and name2 are equals if both lowercase (without changing
 */
 
 /* WRITE YOUR CODE HERE */
-var name1="john"
-var name2="John"
+let name1="john"
+let name2="John"
 if(name1 == name2){
     console.log("The name1 and name 2 are equals")
  }
@@ -79,7 +79,7 @@ if(name1 == name2){
 Create a variable named x (its value must be less than 10). Write the code to print the literal value of x (ex.: if x is 1 print "one", if 5 print "five" etc.).
 */
 /* WRITE YOUR CODE HERE */
-var x=5
+let x=5
 switch(x){
     case 1:
         console.log("One")
