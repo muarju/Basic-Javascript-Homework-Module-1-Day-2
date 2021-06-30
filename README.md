@@ -1,5 +1,5 @@
 # FS-May-M1D2
- Basic Javascript Homework
+ Basic Javascript Homework Module 1 Day 2
 
 ### EXERCISE 1
 Enumerate and describe the main datatypes in JavaScript. Try to explain the concepts as you were speaking to a 12 years old. <br>
